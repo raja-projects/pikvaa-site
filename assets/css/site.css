@@ -115,3 +115,5 @@ form.f{display:grid;gap:14px;max-width:620px}form.f label{font-size:.88rem;font-
 .home-photo .hero-glow{opacity:.55}.home-photo .hero-in{grid-template-columns:minmax(0,720px);min-height:660px;align-items:center}.home-photo .hero-copy{position:relative;z-index:2}.home-photo .hero-mock{display:none}.contact-note{margin-top:48px;padding-top:32px;border-top:1px solid rgba(3,34,81,.14)}
 .real-photo{margin:0;border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow);min-height:280px}.real-photo img{width:100%;height:100%;min-height:280px;object-fit:cover;display:block}.proof-q strong{display:block;color:var(--navy);margin-bottom:8px}.proof-q p{margin:0}
 @media(max-width:760px){.home-photo{background-image:linear-gradient(180deg,rgba(3,34,81,.9),rgba(3,34,81,.96)),url('../images/studio-team.png');background-position:62% center}.home-photo .hero-in{min-height:590px}}
+
+.foot-bot{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;justify-content:space-between}.foot-links a{opacity:.85}.foot-links a:hover{opacity:1}.foot-tag{font-size:.8em;opacity:.7;letter-spacing:.04em}
