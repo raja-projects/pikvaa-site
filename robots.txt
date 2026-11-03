@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /shots/
 
 Sitemap: https://pikvaa.com/sitemap.xml
