@@ -58,3 +58,32 @@ Key facts (prices before 18% GST): Lite 3 GB ₹99/6 months, ₹149/12 months; W
 - [About Pikvaa - A Studio App Made in India](https://pikvaa.com/about/)
 - [Contact Pikvaa - product & Questions](https://pikvaa.com/contact/)
 - [Photography Business Blog for Indian Studios | Pikvaa](https://pikvaa.com/blog/)
+
+
+## हिन्दी
+
+पिक्वा भारतीय फोटोग्राफरों का फोटो चयन ऐप है। ऐप तमिल और अंग्रेजी में चलता है। यह वेबसाइट हिन्दी में भी है। कीमतें 18% GST से पहले, मूल्य पृष्ठ के अनुसार (4 नवंबर 2026): लाइट 3 GB ₹99 / 6 महीने और ₹149 / 12 महीने; वेडिंग 40 GB ₹999 / 6 महीने (GST सहित लगभग ₹1,179); 50 GB ₹1,249 / 6 महीने; 120 GB ₹2,999 / 6 महीने। फ्री प्लान उपलब्ध है। Pro ₹4,999 प्रति वर्ष + GST है और फोटोग्राफी स्टूडियो के साथ पुष्टि हो रही है। ग्राहक स्टूडियो को सीधे भुगतान करते हैं। AI फेस सर्च, प्रिंट स्टोर और अनलिमिटेड स्टोरेज नहीं है।
+
+- [होम](https://pikvaa.com/hi/): फोटो चयन, डिलीवरी, बुकिंग और भुगतान।
+- [मूल्य](https://pikvaa.com/hi/pricing/): लाइट ₹99, वेडिंग ₹999, 50 GB ₹1,249, 120 GB ₹2,999, GST से पहले।
+- [विशेषताएँ](https://pikvaa.com/hi/features/): चयन, डिलीवरी, CRM और स्टोरेज।
+- [फोटो चयन](https://pikvaa.com/hi/features/photo-selection/)
+- [गैलरी डिलीवरी](https://pikvaa.com/hi/features/photo-delivery/)
+- [स्टूडियो CRM](https://pikvaa.com/hi/features/studio-management/)
+- [स्टोरेज](https://pikvaa.com/hi/features/storage-protection/)
+- [FAQ](https://pikvaa.com/hi/faq/): 265 उत्तर, विषय के पृष्ठों पर।
+- [हमारे बारे में](https://pikvaa.com/hi/about/)
+- [संपर्क](https://pikvaa.com/hi/contact/)
+
+## FAQ topics
+
+English and Hindi answers are split by topic. Old /faq/#topic links still point at the topic card, and the topic page is linked from it.
+
+- [What is Pikvaa](https://pikvaa.com/faq/what-is-pikvaa/)
+- [Pricing and GST](https://pikvaa.com/faq/pricing-and-gst/)
+- [Client selection and gallery](https://pikvaa.com/faq/client-selection-and-gallery/)
+- [Packs and storage](https://pikvaa.com/faq/packs-and-storage/)
+- [Payments](https://pikvaa.com/faq/payments/)
+- [Bookings and crew](https://pikvaa.com/faq/bookings-and-crew/)
+
+Profiles: this site does not publish social, store or directory profile URLs, so none are listed here.

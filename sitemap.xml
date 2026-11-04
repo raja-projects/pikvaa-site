@@ -1,39 +1,828 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://pikvaa.com/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/features/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/features/photo-selection/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/features/photo-delivery/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/features/studio-management/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/features/storage-protection/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/pricing/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/faq/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/compare/pixieset-alternative/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/compare/kwikpic-alternative/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/compare/google-drive-for-photographers/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/solutions/wedding-photographers/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/solutions/studios/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/solutions/freelancers/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/about/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/contact/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/privacy/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/terms/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/chennai/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/coimbatore/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/madurai/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/trichy/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/salem/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/tirunelveli/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/kerala/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/locations/kochi/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/wedding-album-photo-selection-guide/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/best-way-to-share-photos-with-clients/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/photography-client-gallery-software/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/wedding-photography-studio-management-software/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/wedding-album-app-guide/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/blog/</loc><lastmod>2026-11-01</lastmod></url>
-  <url><loc>https://pikvaa.com/shipping-policy/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://pikvaa.com/hi/shipping-policy/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://pikvaa.com/refunds/</loc><lastmod>2026-11-03</lastmod></url>
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://pikvaa.com/about/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/about/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/about/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/best-way-to-share-photos-with-clients/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/best-way-to-share-photos-with-clients/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/best-way-to-share-photos-with-clients/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/best-way-to-share-photos-with-clients/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/photography-client-gallery-software/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/photography-client-gallery-software/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/photography-client-gallery-software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/photography-client-gallery-software/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/watermark-and-share-wedding-photos-securely/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/wedding-album-app-guide/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-album-app-guide/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-album-app-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-album-app-guide/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/wedding-album-photo-selection-guide/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-album-photo-selection-guide/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-album-photo-selection-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-album-photo-selection-guide/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/blog/wedding-photography-studio-management-software/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-photography-studio-management-software/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-photography-studio-management-software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-photography-studio-management-software/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/compare/google-drive-for-photographers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/google-drive-for-photographers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/google-drive-for-photographers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/google-drive-for-photographers/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/compare/kwikpic-alternative/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/kwikpic-alternative/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/kwikpic-alternative/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/kwikpic-alternative/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/compare/pixieset-alternative/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/pixieset-alternative/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/pixieset-alternative/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/pixieset-alternative/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/contact/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/contact/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/contact/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/bookings-and-crew/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/bookings-and-crew/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/bookings-and-crew/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/bookings-and-crew/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/client-faqs/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/client-faqs/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/client-faqs/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/client-faqs/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/client-selection-and-gallery/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/client-selection-and-gallery/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/client-selection-and-gallery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/client-selection-and-gallery/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/comparisons/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/comparisons/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/comparisons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/comparisons/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/deletion-and-expiry/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/deletion-and-expiry/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/deletion-and-expiry/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/deletion-and-expiry/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/downloads/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/downloads/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/downloads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/downloads/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/free-plan/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/free-plan/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/free-plan/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/free-plan/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/getting-started/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/getting-started/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/getting-started/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/getting-started/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/mobile-vs-web/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/mobile-vs-web/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/mobile-vs-web/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/mobile-vs-web/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/packs-and-storage/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/packs-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/packs-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/packs-and-storage/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/payments/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/payments/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/payments/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/payments/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/photography-business/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/photography-business/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/photography-business/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/photography-business/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/pin-and-security/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/pin-and-security/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/pin-and-security/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/pin-and-security/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/pricing-and-gst/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/pricing-and-gst/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/pricing-and-gst/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/pricing-and-gst/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/privacy-and-data-in-india/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/privacy-and-data-in-india/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/privacy-and-data-in-india/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/privacy-and-data-in-india/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/protection-and-backups/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/protection-and-backups/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/protection-and-backups/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/protection-and-backups/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/support/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/support/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/support/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/top-ups-and-upgrades/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/top-ups-and-upgrades/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/top-ups-and-upgrades/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/top-ups-and-upgrades/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/faq/what-is-pikvaa/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/what-is-pikvaa/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/what-is-pikvaa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/what-is-pikvaa/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/features/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/features/photo-delivery/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/photo-delivery/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/photo-delivery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/photo-delivery/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/reception.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/features/photo-selection/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/photo-selection/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/photo-selection/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/photo-selection/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/wedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/features/storage-protection/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/storage-protection/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/storage-protection/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/storage-protection/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/haldi.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/features/studio-management/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/studio-management/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/studio-management/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/studio-management/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/engagement.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/about/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/about/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/about/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/best-way-to-share-photos-with-clients/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/best-way-to-share-photos-with-clients/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/best-way-to-share-photos-with-clients/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/best-way-to-share-photos-with-clients/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/photography-client-gallery-software/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/photography-client-gallery-software/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/photography-client-gallery-software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/photography-client-gallery-software/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/watermark-and-share-wedding-photos-securely/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/watermark-and-share-wedding-photos-securely/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/watermark-and-share-wedding-photos-securely/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/wedding-album-app-guide/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-album-app-guide/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-album-app-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-album-app-guide/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/wedding-album-photo-selection-guide/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-album-photo-selection-guide/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-album-photo-selection-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-album-photo-selection-guide/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/blog/wedding-photography-studio-management-software/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/blog/wedding-photography-studio-management-software/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/blog/wedding-photography-studio-management-software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/blog/wedding-photography-studio-management-software/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/compare/google-drive-for-photographers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/google-drive-for-photographers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/google-drive-for-photographers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/google-drive-for-photographers/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/compare/kwikpic-alternative/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/kwikpic-alternative/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/kwikpic-alternative/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/kwikpic-alternative/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/compare/pixieset-alternative/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/compare/pixieset-alternative/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/compare/pixieset-alternative/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/compare/pixieset-alternative/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/contact/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/contact/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/contact/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/bookings-and-crew/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/bookings-and-crew/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/bookings-and-crew/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/bookings-and-crew/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/client-faqs/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/client-faqs/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/client-faqs/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/client-faqs/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/client-selection-and-gallery/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/client-selection-and-gallery/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/client-selection-and-gallery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/client-selection-and-gallery/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/comparisons/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/comparisons/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/comparisons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/comparisons/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/deletion-and-expiry/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/deletion-and-expiry/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/deletion-and-expiry/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/deletion-and-expiry/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/downloads/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/downloads/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/downloads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/downloads/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/free-plan/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/free-plan/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/free-plan/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/free-plan/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/getting-started/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/getting-started/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/getting-started/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/getting-started/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/mobile-vs-web/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/mobile-vs-web/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/mobile-vs-web/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/mobile-vs-web/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/packs-and-storage/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/packs-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/packs-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/packs-and-storage/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/payments/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/payments/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/payments/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/payments/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/photography-business/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/photography-business/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/photography-business/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/photography-business/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/pin-and-security/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/pin-and-security/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/pin-and-security/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/pin-and-security/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/pricing-and-gst/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/pricing-and-gst/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/pricing-and-gst/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/pricing-and-gst/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/privacy-and-data-in-india/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/privacy-and-data-in-india/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/privacy-and-data-in-india/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/privacy-and-data-in-india/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/protection-and-backups/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/protection-and-backups/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/protection-and-backups/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/protection-and-backups/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/support/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/support/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/support/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/top-ups-and-upgrades/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/top-ups-and-upgrades/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/top-ups-and-upgrades/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/top-ups-and-upgrades/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/faq/what-is-pikvaa/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/faq/what-is-pikvaa/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/faq/what-is-pikvaa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/faq/what-is-pikvaa/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/features/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/features/photo-delivery/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/photo-delivery/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/photo-delivery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/photo-delivery/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/reception.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/features/photo-selection/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/photo-selection/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/photo-selection/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/photo-selection/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/wedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/features/storage-protection/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/storage-protection/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/storage-protection/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/storage-protection/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/haldi.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/features/studio-management/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/features/studio-management/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/features/studio-management/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/features/studio-management/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/engagement.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/chennai/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/chennai/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/chennai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/chennai/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/coimbatore/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/coimbatore/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/coimbatore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/coimbatore/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/kerala/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/kerala/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/kerala/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/kerala/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/kochi/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/kochi/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/kochi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/kochi/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/madurai/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/madurai/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/madurai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/madurai/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/salem/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/salem/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/salem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/salem/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/tirunelveli/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/tirunelveli/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/tirunelveli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/tirunelveli/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/locations/trichy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/trichy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/trichy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/trichy/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/pricing/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/pricing/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/pricing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/pricing/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/privacy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/refunds/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/refunds/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/refunds/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/refunds/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/shipping-policy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/shipping-policy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/shipping-policy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/shipping-policy/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/solutions/freelancers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/freelancers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/freelancers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/freelancers/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/solutions/studios/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/studios/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/studios/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/studios/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/solutions/wedding-photographers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/wedding-photographers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/wedding-photographers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/wedding-photographers/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/hi/terms/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/terms/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/chennai/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/chennai/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/chennai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/chennai/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/wedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/coimbatore/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/coimbatore/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/coimbatore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/coimbatore/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/prewedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/kerala/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/kerala/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/kerala/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/kerala/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/baby.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/kochi/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/kochi/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/kochi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/kochi/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/reception.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/madurai/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/madurai/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/madurai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/madurai/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/wedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/salem/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/salem/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/salem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/salem/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/birthday.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/tirunelveli/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/tirunelveli/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/tirunelveli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/tirunelveli/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/haldi.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/locations/trichy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/locations/trichy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/locations/trichy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/locations/trichy/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/reception.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/pricing/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/pricing/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/pricing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/pricing/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/privacy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/privacy/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/refunds/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/refunds/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/refunds/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/refunds/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/shipping-policy/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/shipping-policy/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/shipping-policy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/shipping-policy/" />
+  </url>
+  <url>
+    <loc>https://pikvaa.com/solutions/freelancers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/freelancers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/freelancers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/freelancers/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/solutions/studios/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/studios/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/studios/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/studios/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/studio-team.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/solutions/wedding-photographers/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/solutions/wedding-photographers/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/solutions/wedding-photographers/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/solutions/wedding-photographers/" />
+    <image:image>
+      <image:loc>https://pikvaa.com/assets/images/events/wedding.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pikvaa.com/terms/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pikvaa.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://pikvaa.com/hi/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pikvaa.com/terms/" />
+  </url>
 </urlset>
